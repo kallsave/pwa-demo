@@ -1,0 +1,9 @@
+.index {
+  width: 100px;
+  height: 100px;
+  background: peru;
+  text-align: center;
+  color: #fff;
+  line-height: 100px;
+  font-size: 28px;
+}
